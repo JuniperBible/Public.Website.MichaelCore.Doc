@@ -1,0 +1,7 @@
+baseURL = "https://michael.juniperbible.org/"
+title = "Michael Bible Module"
+languageCode = "en"
+
+[module]
+  [[module.imports]]
+    path = "github.com/alex-shpak/hugo-book"
